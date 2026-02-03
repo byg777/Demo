@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini Translator Pro",
+  "description": "A high-performance neural machine translation application powered by Google Gemini. Features instant bidirectional Chinese-English translation, clipboard integration, and one-click PDF export.",
+  "requestFramePermissions": []
+}
